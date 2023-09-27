@@ -3,6 +3,10 @@ package SOLIDPrinciple;
 import java.util.List;
 
 public class vendors implements vendorsInterFace{
+    public vendors() {
+
+    }
+
     public List<String> vendorList;
     @Override
     public void addNewVendor(String vendor) throws Exception {
