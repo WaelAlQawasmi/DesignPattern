@@ -4,6 +4,11 @@
 package SOLIDPrinciple;
 
 public class Library {
+    public static void main(String[] args) throws Exception {
+        vendors vendor=new vendors();
+        vendor.addNewVendor("wael");
+
+    }
     public boolean someLibraryMethod() {
         return true;
     }
