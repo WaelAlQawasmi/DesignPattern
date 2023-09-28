@@ -1,16 +1,17 @@
 package SOLIDPrinciple;
 
+import java.util.ArrayList;
 import java.util.List;
 
 public class vendors implements vendorsInterFace{
     public vendors() {
-
+        this.vendorList= new ArrayList<String>();
     }
 
-    public List<String> vendorList;
+    public ArrayList<String> vendorList;
     @Override
     public void addNewVendor(String vendor) throws Exception {
-        if(isVendorExist(vendor))
+        if(!isVendorExist(vendor))
             vendorList.add(vendor);
         else
             throw new Exception("the vendor exist");
