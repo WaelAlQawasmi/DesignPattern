@@ -3,12 +3,36 @@
  */
 package ISP;
 
+import java.util.ArrayList;
+
 public class App {
     public String getGreeting() {
         return "Hello World!";
     }
 
     public static void main(String[] args) {
-        System.out.println(new App().getGreeting());
+        ArrayList<Integer> list1=new ArrayList<Integer>();
+        list1.add(1);
+        list1.add(2);
+        list1.add(3);
+        ArrayList<Integer> list2=new ArrayList<Integer>();
+        list2.add(3);
+        list2.add(2);
+        list2.add(7);
+        System.out.println( App.intersectionBetweenTwoArray(list1,list2).toString());
+
+    }
+
+    public static ArrayList<Integer> intersectionBetweenTwoArray(ArrayList<Integer> arrayList1,ArrayList<Integer> arrayList2){
+        ArrayList<Integer> result=new ArrayList<Integer>();
+
+        for (Integer number:arrayList1) {
+
+            if(arrayList2.contains(number))
+            {
+                result.add(number);
+            }
+        }
+        return result;
     }
 }
