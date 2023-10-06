@@ -3,6 +3,9 @@
  */
 package ISP;
 
+import DIP.Control;
+import DIP.TV;
+
 import java.util.ArrayList;
 
 public class App {
@@ -15,6 +18,10 @@ public class App {
 
         FrontEndProjectDevelopment frontEnd= new FrontEndProjectDevelopment();
         frontEnd.BuildFrontEnd();
+        TV tv=new TV();
+        Control DeviceControl= new Control(tv);
+        DeviceControl.start();
+
 
     }
 
