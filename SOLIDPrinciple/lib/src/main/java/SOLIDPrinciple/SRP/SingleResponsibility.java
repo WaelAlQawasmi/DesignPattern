@@ -1,4 +1,4 @@
-package SOLIDPrinciple;
+package SOLIDPrinciple.SRP;
 
 public class SingleResponsibility {
     private String productName;

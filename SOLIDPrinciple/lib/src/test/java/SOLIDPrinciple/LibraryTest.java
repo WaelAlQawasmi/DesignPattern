@@ -3,6 +3,7 @@
  */
 package SOLIDPrinciple;
 
+import SOLIDPrinciple.OCP.Library;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
