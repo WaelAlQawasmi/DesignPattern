@@ -1,9 +1,9 @@
-package SOLIDPrinciple;
+package SOLIDPrinciple.OCP;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class vendors implements vendorsInterFace{
+public class vendors implements vendorsInterFace {
     public vendors() {
         this.vendorList= new ArrayList<String>();
     }

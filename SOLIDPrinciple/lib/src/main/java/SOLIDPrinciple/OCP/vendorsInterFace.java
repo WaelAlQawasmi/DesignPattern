@@ -1,4 +1,4 @@
-package SOLIDPrinciple;
+package SOLIDPrinciple.OCP;
 
 import java.util.List;
 
