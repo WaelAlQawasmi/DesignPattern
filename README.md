@@ -1,9 +1,13 @@
 # DesignPattern
 
 
-|  the code | the titel         | link  | 
+|   Code | The Title | Link  | 
 |-----------|-------------------|-------|
 |01 | Singleton Pattern | **[Singleton Pattern](https://github.com/WaelAlQawasmi/DesignPattern/tree/main/Signleton)**
+|02 | Singleton Pattern - PHP | **[Singleton Pattern -PHP](https://github.com/WaelAlQawasmi/DesignPattern/tree/main/Signleton-PHP)**
 02           | Observer          | **[Observer](https://github.com/WaelAlQawasmi/DesignPattern/tree/main/Observer)**
-03          | Factory           | **[Factory](https://github.com/WaelAlQawasmi/DesignPattern/tree/main/Factory)**
-03          | SOLIDPrinciples   | **[SOLIDPrincipls](https://github.com/WaelAlQawasmi/DesignPattern/tree/main/SOLIDPrinciple)**
+03           | Observer-PHP          | **[Observer-PHP](https://github.com/WaelAlQawasmi/DesignPattern/tree/main/Observer-PHP)**
+04          | TemplateMethod           | **[TemplateMethod](https://github.com/WaelAlQawasmi/DesignPattern/tree/main/TemplateMethod)**
+05         | Factory           | **[Factory](https://github.com/WaelAlQawasmi/DesignPattern/tree/main/Factory)**
+05         | Adapter           | **[Adapter](https://github.com/WaelAlQawasmi/DesignPattern/tree/main/Adapter)**
+06          | SOLIDPrinciples   | **[SOLIDPrincipls](https://github.com/WaelAlQawasmi/DesignPattern/tree/main/SOLIDPrinciple)**
