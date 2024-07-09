@@ -9,5 +9,6 @@
 03           | Observer-PHP          | **[Observer-PHP](https://github.com/WaelAlQawasmi/DesignPattern/tree/main/Observer-PHP)**
 04          | TemplateMethod           | **[TemplateMethod](https://github.com/WaelAlQawasmi/DesignPattern/tree/main/TemplateMethod)**
 05         | Factory           | **[Factory](https://github.com/WaelAlQawasmi/DesignPattern/tree/main/Factory)**
-05         | Adapter           | **[Adapter](https://github.com/WaelAlQawasmi/DesignPattern/tree/main/Adapter)**
-06          | SOLIDPrinciples   | **[SOLIDPrincipls](https://github.com/WaelAlQawasmi/DesignPattern/tree/main/SOLIDPrinciple)**
+06         | Adapter           | **[Adapter](https://github.com/WaelAlQawasmi/DesignPattern/tree/main/Adapter)**
+07          | FlyWeight   | **[FlyWeight](https://github.com/WaelAlQawasmi/DesignPattern/tree/main/FlyWeight)**
+08          | SOLIDPrinciples   | **[SOLIDPrincipls](https://github.com/WaelAlQawasmi/DesignPattern/tree/main/SOLIDPrinciple)**
