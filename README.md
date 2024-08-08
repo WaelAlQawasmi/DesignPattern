@@ -13,4 +13,5 @@
 08          | FlyWeight   | **[FlyWeight](https://github.com/WaelAlQawasmi/DesignPattern/tree/main/FlyWeight)**
 09          | Decorator   | **[Decorator](https://github.com/WaelAlQawasmi/DesignPattern/tree/main/Decorator)**
 10          | Command   | **[Command](https://github.com/WaelAlQawasmi/DesignPattern/tree/main/Command)**
-11          | SOLIDPrinciples   | **[SOLIDPrincipls](https://github.com/WaelAlQawasmi/DesignPattern/tree/main/SOLIDPrinciple)**
+11          | Proxy   | **[Proxy](https://github.com/WaelAlQawasmi/DesignPattern/tree/main/Proxy)**
+12          | SOLIDPrinciples   | **[SOLIDPrincipls](https://github.com/WaelAlQawasmi/DesignPattern/tree/main/SOLIDPrinciple)**
