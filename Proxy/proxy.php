@@ -7,3 +7,5 @@ echo $proxy->getContent();
 
 $proxy=new WebProxy("https//facebook.com");
 echo $proxy->getContent();
+
+
