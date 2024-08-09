@@ -14,4 +14,5 @@
 09          | Decorator   | **[Decorator](https://github.com/WaelAlQawasmi/DesignPattern/tree/main/Decorator)**
 10          | Command   | **[Command](https://github.com/WaelAlQawasmi/DesignPattern/tree/main/Command)**
 11          | Proxy   | **[Proxy](https://github.com/WaelAlQawasmi/DesignPattern/tree/main/Proxy)**
-12          | SOLIDPrinciples   | **[SOLIDPrincipls](https://github.com/WaelAlQawasmi/DesignPattern/tree/main/SOLIDPrinciple)**
+12          | Prototype   | **[Prototype](https://github.com/WaelAlQawasmi/DesignPattern/tree/main/Prototype)**
+13          | SOLIDPrinciples   | **[SOLIDPrincipls](https://github.com/WaelAlQawasmi/DesignPattern/tree/main/SOLIDPrinciple)**
