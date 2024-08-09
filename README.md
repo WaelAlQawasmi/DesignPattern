@@ -15,4 +15,5 @@
 10          | Command   | **[Command](https://github.com/WaelAlQawasmi/DesignPattern/tree/main/Command)**
 11          | Proxy   | **[Proxy](https://github.com/WaelAlQawasmi/DesignPattern/tree/main/Proxy)**
 12          | Prototype   | **[Prototype](https://github.com/WaelAlQawasmi/DesignPattern/tree/main/Prototype)**
+12          | Facade   | **[Facade](https://github.com/WaelAlQawasmi/DesignPattern/tree/main/Facade)**
 13          | SOLIDPrinciples   | **[SOLIDPrincipls](https://github.com/WaelAlQawasmi/DesignPattern/tree/main/SOLIDPrinciple)**
